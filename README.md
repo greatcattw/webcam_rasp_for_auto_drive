@@ -38,5 +38,8 @@ set_as_ap.sh
 可以看到攝影機的影像  
 
 初次測試時,使用常見的logi c270, 這個USB攝影機的視角為55度,視角有點窄,不太適用於自動駕駛.  
+![pic](pic/pic1.jpg)<br>
+![pic](pic/pic2.jpg)<br>
+![pic](pic/pic3.jpg)<br>
 找了一隻135度無畸變的攝影機. 
 # In progress
