@@ -1,6 +1,11 @@
-# webcam_rasp_for_auto_drive
+# webcam_rasp_for_auto_drive_mjpg-streamer
 Making a webcam for toy card auto drive by rasp3B with low latency and low loading  
 用樹莓3B建立webam, 用於玩具車的自動駕駛. 具有低延時,低CPU負載.  
+
+也可以使用Linkit 7688/mt7688取代Rasp, 達到更省電,更輕量化的效果.  
+Linkit 7688/mt7688的USB安裝檔案在此:  
+greatcattw/linkit7688_3.18.23_img_duo_MCU
+USB安裝檔案已內建mjpg-streamer
 
 樹莓硬體為  
 rasp3B  
