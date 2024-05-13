@@ -4,7 +4,7 @@ Making a webcam for toy card auto drive by rasp3B with low latency and low loadi
 
 也可以使用Linkit 7688/mt7688取代Rasp, 達到更省電,更輕量化的效果.  
 Linkit 7688/mt7688的USB安裝檔案在此:  
-greatcattw/linkit7688_3.18.23_img_duo_MCU
+greatcattw/linkit7688_3.18.23_img_duo_MCU  
 USB安裝檔案已內建mjpg-streamer
 
 樹莓硬體為  
