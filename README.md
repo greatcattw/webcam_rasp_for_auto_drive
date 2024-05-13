@@ -37,9 +37,13 @@ set_as_ap.sh
 192.168.100.1:8080/?action=snapshot  
 可以看到攝影機的影像  
 
+## 選用USB攝影機
 初次測試時,使用常見的logi c270, 這個USB攝影機的視角為55度,視角有點窄,不太適用於自動駕駛.  
 ![pic](pic/logi/pic1.jpg)<br>
 ![pic](pic/logi/pic2.jpg)<br>
 ![pic](pic/logi/pic3.jpg)<br>
 找了一隻135度無畸變的攝影機. 
-# In progress
+![pic](pic/cam135/pic1.jpg)<br>
+![pic](pic/cam135/pic2.jpg)<br>
+![pic](pic/cam135/pic3.jpg)<br>
+
