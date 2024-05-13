@@ -42,7 +42,7 @@ set_as_ap.sh
 ![pic](pic/logi/pic1.jpg)<br>
 ![pic](pic/logi/pic2.jpg)<br>
 ![pic](pic/logi/pic3.jpg)<br>
-找了一隻135度無畸變的攝影機. 
+找了一隻135度無畸變的攝影機. m
 ![pic](pic/cam135/pic1.jpg)<br>
 ![pic](pic/cam135/pic2.jpg)<br>
 ![pic](pic/cam135/pic6.jpg)<br>
