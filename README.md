@@ -45,5 +45,7 @@ set_as_ap.sh
 找了一隻135度無畸變的攝影機. 
 ![pic](pic/cam135/pic1.jpg)<br>
 ![pic](pic/cam135/pic2.jpg)<br>
+![pic](pic/cam135/pic6.jpg)<br>
 ![pic](pic/cam135/pic3.jpg)<br>
+![pic](pic/cam135/pic5.jpg)<br>
 
